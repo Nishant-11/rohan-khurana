@@ -1,10 +1,10 @@
-# Hi!👋 I'm Rohan Khurana
-- :mortar_board: I'm currently pursuing B.Tech in Computer Science and Engingeering.
-- :dart: I’m currently working on Web Development.
-- ⚡ I have worked in XR Development.
+# Hi!👋 I'm Nishant Pal
+- :mortar_board: I'm currently pursuing B.Tech in Electrical and Electronics Engingeering.
+- :dart: I’m currently working on coding skills.
+- ⚡ I have worked in C programming language.
 - :computer: I’m currently learning Data Structures and Algorithms.
-- 📫 How to reach me: rohankhurana.cse@gmail.com
-- ⚡ Have a look at my [Resume](https://drive.google.com/file/d/1DpGPDwimY0udT1HC-oIJG78bJyZ3jqXp/view)
+- 📫 How to reach me: nishant.1923en1137@kiet.edu
+- ⚡ Have a look at my [Resume](https://drive.google.com/file/d/16S6P1rP8Q5MQ2H7sl9Cgr8nLKcn-J74K/view?usp=sharing)
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/rohan_khurana__" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="rohan_khurana__" height="30" width="40" /></a>
